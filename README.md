@@ -27,7 +27,7 @@
 
 项目只需要了解一些前端知识就可以解决，图标与链接可以自行定义。主页使用的是默认布局，熟悉前端的可以自行修改页面布局。
 
-访问入口：[https://mkdocs.grft.top](https://mkdocs.grft.top)
+访问入口：[http://mkdocs.grft.top](http://mkdocs.grft.top)
 
 
 ### 技术索引一览
