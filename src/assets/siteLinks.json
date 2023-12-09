@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "/images/icon/mkdocs/code.png",
+    "name": "语言与编程",
+    "link": "http://mkdocs.grft.top/语言与编程/"
+  },
+  {
+    "icon": "/images/icon/mkdocs/branch.png",
+    "name": "代码管理",
+    "link": "http://mkdocs.grft.top/代码管理/"
+  },
+  {
+    "icon": "/images/icon/mkdocs/html5.png",
+    "name": "前端技术",
+    "link": "http://mkdocs.grft.top/前端技术/"
+  },
+  {
+    "icon": "/images/icon/mkdocs/data.png",
+    "name": "数据库",
+    "link": "http://mkdocs.grft.top/数据库/"
+  },
+  {
+    "icon": "/images/icon/mkdocs/bridge.png",
+    "name": "中间件",
+    "link": "http://mkdocs.grft.top/中间件/"
+  },
+  {
+    "icon": "/images/icon/mkdocs/bigdata.png",
+    "name": "大数据",
+    "link": "http://mkdocs.grft.top/大数据/"
+  },
+  {
+    "icon": "/images/icon/mkdocs/robot.png",
+    "name": "机器学习",
+    "link": "http://mkdocs.grft.top/机器学习/"
+  },
+  {
+    "icon": "/images/icon/mkdocs/windows.png",
+    "name": "操作系统",
+    "link": "http://mkdocs.grft.top/操作系统/"
+  },
+  {
+    "icon": "/images/icon/mkdocs/network.png",
+    "name": "计算机网络",
+    "link": "http://mkdocs.grft.top/计算机网络/"
+  },
+  {
+    "icon": "/images/icon/mkdocs/architecture.png",
+    "name": "容器与架构",
+    "link": "http://mkdocs.grft.top/容器与架构/"
+  },
+  {
+    "icon": "/images/icon/mkdocs/repair.png",
+    "name": "编辑与模式",
+    "link": "http://mkdocs.grft.top/编辑与模式/"
+  },
+  {
+    "icon": "/images/icon/mkdocs/smart.png",
+    "name": "算法设计",
+    "link": "http://mkdocs.grft.top/算法设计/"
+  }
+]
