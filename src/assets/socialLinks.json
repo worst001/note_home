@@ -2,7 +2,7 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/worst001/MyHome"
+    "url": "https://github.com/worst001/mkdocs_home"
   },
   {
     "name": "BiliBili",
@@ -13,8 +13,8 @@
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/qq-qr-2.jpg"
+    "tip": "加群一起交流吧 ~",
+    "url": "https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E4%BA%A4%E6%B5%81%E7%BE%A4/%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4.png"
   },
   {
     "name": "Email",
@@ -25,19 +25,13 @@
   {
     "name": "WeChat",
     "icon": "/images/icon/wechat.png",
-    "tip": "你懂的 ~",
-    "url": "https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/wechat-qr-2.jpg"
+    "tip": "大爷来玩呀 ~",
+    "url": "https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F.jpg"
   },
   {
     "name": "Sina",
     "icon": "/images/icon/sina.png",
     "tip": "阿巴阿巴 ~",
     "url": "https://weibo.com/u/2352568652"
-  },
-  {
-    "name": "公众号",
-    "icon": "https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BE%AE.jpg",
-    "tip": "大爷来玩呀 ~",
-    "url": "https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F.jpg"
   }
 ]
