@@ -10,7 +10,6 @@
 <!-- PROJECT LOGO -->
 
 
-
 # 计算机研发技术指南
 
 ```diff
@@ -20,7 +19,6 @@
 + 也有相当一部分是尚硅谷课件，喜欢PDF和系统性查阅的小伙伴可以看这部分。
 ```
 
-
 ### 主页地址
 
 主页模板参考了项目[無名の主页](https://github.com/imsyy/home)，如果自己有公网服务器也想搭建个人博客的可以参考这个项目。
@@ -28,7 +26,6 @@
 项目只需要了解一些前端知识就可以解决，图标与链接可以自行定义。主页使用的是默认布局，熟悉前端的可以自行修改页面布局。
 
 访问入口：[http://mkdocs.grft.top](http://mkdocs.grft.top)
-
 
 ### 技术索引一览
 
@@ -70,22 +67,6 @@
     - 文档地址: [http://mkdocs.grft.top/算法设计/](http://mkdocs.grft.top/算法设计/)
 
 
-
-### 贡献者
-
-请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
-
-##### 如何参与开源项目
-
-贡献使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何贡献都是**非常感谢**的。
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
 ### 版本控制
 
 该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
@@ -100,9 +81,7 @@
 
 作者无聊时做的测试游戏，完全免费哦！ :kissing_closed_eyes:
 
-
 ![公众号](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F.jpg)
-
 
 ### 主页参考模板
 
