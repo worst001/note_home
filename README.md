@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/worst001/mkdocs_home">
-    <img src="img/logo.png" alt="Logo" width="480" height="270">
+    <img src="https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/logo.png" alt="Logo" width="480" height="270">
   </a>
 
   <h3 align="center">计算机研发技术指南</h3>
