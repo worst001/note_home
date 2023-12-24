@@ -14,7 +14,7 @@
 <!-- 项目LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/worst001/mkdocs_home">
+  <a href="http://mkdocs.grft.top">
     <img src="https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/logo.png" alt="Logo" width="480" height="270">
   </a>
 
