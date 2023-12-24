@@ -42,7 +42,7 @@
 
 ## 关于项目
 
-<!-- [![主页截图][home-screenshot]](http://mkdocs.grft.top) -->
+[![主页截图][home-screenshot]](http://mkdocs.grft.top)
 
 + 简单的博客，尽可能收录了软件研发相关资料手册。
 + 大部分知识在作者的研发生涯中都亲力亲为参与过，尽可能做到在熟悉的领域收录的完整一些。
