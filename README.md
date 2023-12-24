@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -10,24 +11,51 @@
 <!-- PROJECT LOGO -->
 
 
-# 计算机研发技术指南
+<!-- 项目LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/worst001/mkdocs_home">
+    <img src="img/logo.png" alt="Logo" width="480" height="270">
+  </a>
 
-```diff
+  <h3 align="center">计算机研发技术指南</h3>
+
+  <p align="center">
+    <br />
+    <a href="#技术索引一览"><strong>探索文档 »</strong></a>
+    <br />
+  </p>
+</div>
+
+<!-- 目录 -->
+<details>
+  <summary>目录</summary>
+  <ol>
+    <li><a href="#关于项目">关于项目</a></li>
+    <li><a href="#技术索引一览">技术索引一览</a></li>
+    <li><a href="#贡献">贡献</a></li>
+    <li><a href="#许可证">许可证</a></li>
+    <li><a href="#联系方式">联系方式</a></li>
+    <li><a href="#鸣谢">鸣谢</a></li>
+  </ol>
+</details>
+
+## 关于项目
+
+<!-- [![主页截图][home-screenshot]](http://mkdocs.grft.top) -->
+
 + 简单的博客，尽可能收录了软件研发相关资料手册。
 + 大部分知识在作者的研发生涯中都亲力亲为参与过，尽可能做到在熟悉的领域收录的完整一些。
 + 有一些是自己整理的笔记，更多的是摘录大佬的笔记以及手册，知识点较为全面。
 + 也有相当一部分是尚硅谷课件，喜欢PDF和系统性查阅的小伙伴可以看这部分。
-```
-
-### 主页地址
-
-主页模板参考了项目[無名の主页](https://github.com/imsyy/home)，如果自己有公网服务器也想搭建个人博客的可以参考这个项目。
-
-项目只需要了解一些前端知识就可以解决，图标与链接可以自行定义。主页使用的是默认布局，熟悉前端的可以自行修改页面布局。
++ 主页模板参考了项目[無名の主页](https://github.com/imsyy/home)，如果自己有公网服务器也想搭建个人博客的可以参考这个项目。
++ 模板只需要了解一些前端知识就可以解决，图标与链接可以自行定义。主页使用的是默认布局，熟悉前端的可以自行修改页面布局。
 
 访问入口：[http://mkdocs.grft.top](http://mkdocs.grft.top)
 
-### 技术索引一览
+<p align="right">(<a href="#readme-top">回到顶部</a>)</p>
+
+## 技术索引一览
 
 - **语言与编程**
     - 仓库地址: [https://github.com/worst001/mkdocs_language](https://github.com/worst001/mkdocs_language)
@@ -66,33 +94,52 @@
     - 仓库地址: [https://github.com/worst001/mkdocs_algorithm](https://github.com/worst001/mkdocs_algorithm)
     - 文档地址: [http://mkdocs.grft.top/算法设计/](http://mkdocs.grft.top/算法设计/)
 
+<p align="right">(<a href="#readme-top">回到顶部</a>)</p>
 
-### 版本控制
 
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
+<!-- 贡献 -->
 
-### 作者
+## 贡献
 
-[小昊子](https://github.com/worst001)
+贡献是使开源社区成为一个如此令人惊叹的地方，以学习、激励和创造。您所做的任何贡献都将非常感谢。
 
-制作不易，如果有帮到你就请作者喝杯咖啡吧!
+如果您对使这个项目变得更好有建议，请 fork 该仓库并创建 pull request。您也可以打开一个带有“enhancement”标签的问题。不要忘记给这个项目点个星！再次感谢！
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
+
+
+<!-- 许可证 -->
+## 许可证
+
+根据 MIT 许可证进行分发。更多信息请参见 [LICENSE.txt](LICENSE)。
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
+
+
+<!-- 联系方式 -->
+## 联系方式
+
+关注我: [小昊子](https://github.com/worst001)
+
+博客地址: [http://mkdocs.grft.top](http://mkdocs.grft.top)
+
+项目链接: [https://github.com/worst001/mkdocs_home](https://github.com/worst001/mkdocs_home)
+
+请作者喝咖啡:
 
 ![支付宝加微信](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%8A%A0%E5%BE%AE%E4%BF%A1.jpg)
 
-作者无聊时做的测试游戏，完全免费哦！ :kissing_closed_eyes:
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-![公众号](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F.jpg)
-
-### 主页参考模板
-
-[https://github.com/imsyy/home](https://github.com/imsyy/home)
-
-### 写在最后的话
+## 鸣谢
 
 因为仓库与文档的数量比较大，有些借鉴资料忘了在`参考文档`部分提及原作者与原仓库，若有疏漏请告诉，我及时补上。
 
 所有引用的原资料都确认是开源认证，若有侵权请告知。
 
+[https://github.com/imsyy/home](https://github.com/imsyy/home)
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
@@ -107,3 +154,4 @@
 [license-shield]: https://img.shields.io/github/license/worst001/mkdocs_home.svg?style=flat-square
 [license-url]: https://github.com/worst001/mkdocs_home/blob/main/LICENSE.txt
 
+[home-screenshot]: img/home.jpg
