@@ -22,7 +22,7 @@
 
   <p align="center">
     <br />
-    <a href="#技术索引一览"><strong>探索文档 »</strong></a>
+    <a href="http://mkdocs.grft.top"><strong>探索文档 »</strong></a>
     <br />
   </p>
 </div>
