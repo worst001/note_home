@@ -160,4 +160,5 @@
 [license-shield]: https://img.shields.io/github/license/worst001/mkdocs_home.svg?style=flat-square
 [license-url]: https://github.com/worst001/mkdocs_home/blob/main/LICENSE.txt
 
-[home-screenshot]: img/home.jpg
+[home-screenshot]: https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/home.jpg
+
