@@ -92,7 +92,7 @@ export const helloInit = () => {
   }
   ElMessage({
     dangerouslyUseHTMLString: true,
-    message: `<strong>${hello}</strong> 欢迎来到我的主页`,
+    message: `<strong>${hello}</strong> 欢迎来到计算机研发技术指南`,
   });
 };
 
