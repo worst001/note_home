@@ -123,7 +123,7 @@
 
 博客地址: [http://mkdocs.grft.top](http://mkdocs.grft.top)
 
-项目链接: [https://github.com/worst001/mkdocs_home](https://github.com/worst001/mkdocs_home)
+项目链接: [https://github.com/worst001/note_home](https://github.com/worst001/note_home)
 
 请作者喝咖啡:
 
@@ -149,15 +149,15 @@
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
-[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_home.svg?style=flat-square
-[contributors-url]: https://github.com/worst001/mkdocs_home/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_home.svg?style=flat-square
-[forks-url]: https://github.com/worst001/mkdocs_home/network/members
-[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_home.svg?style=flat-square
-[stars-url]: https://github.com/worst001/mkdocs_home/stargazers
-[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_home.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_home.svg
-[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_home.svg?style=flat-square
-[license-url]: https://github.com/worst001/mkdocs_home/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/note_home.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/note_home/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/note_home.svg?style=flat-square
+[forks-url]: https://github.com/worst001/note_home/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/note_home.svg?style=flat-square
+[stars-url]: https://github.com/worst001/note_home/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/note_home.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/note_home.svg
+[license-shield]: https://img.shields.io/github/license/worst001/note_home.svg?style=flat-square
+[license-url]: https://github.com/worst001/note_home/blob/main/LICENSE.txt
 
 [home-screenshot]: https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/home.jpg
