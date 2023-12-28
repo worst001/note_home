@@ -14,7 +14,7 @@
 <!-- 项目LOGO -->
 <br />
 <div align="center">
-  <!-- <a href="http://mkdocs.grft.top"> -->
+  <!-- <a href="http://note.grft.top"> -->
   <!--   <img src="https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/logo.png" alt="Logo" width="480" height="270"> -->
   <!-- </a> -->
 
@@ -22,7 +22,7 @@
 
   <p align="center">
     <br />
-    <a href="http://mkdocs.grft.top"><strong>探索文档 »</strong></a>
+    <a href="http://note.grft.top"><strong>探索文档 »</strong></a>
     <br />
   </p>
 </div>
@@ -42,7 +42,7 @@
 
 ## 关于项目
 
-[![主页截图][home-screenshot]](http://mkdocs.grft.top)
+[![主页截图][home-screenshot]](http://note.grft.top)
 
 + 简单的博客，尽可能收录了软件研发相关资料手册。
 + 大部分知识在作者的研发生涯中都亲力亲为参与过，尽可能做到在熟悉的领域收录的完整一些。
@@ -51,7 +51,7 @@
 + 主页模板参考了项目[無名の主页](https://github.com/imsyy/home)，如果自己有公网服务器也想搭建个人博客的可以参考这个项目。
 + 模板只需要了解一些前端知识就可以解决，图标与链接可以自行定义。主页使用的是默认布局，熟悉前端的可以自行修改页面布局。
 
-访问入口：[http://mkdocs.grft.top](http://mkdocs.grft.top)
+访问入口：[http://note.grft.top](http://note.grft.top)
 
 <p align="right">(<a href="#readme-top">回到顶部</a>)</p>
 
@@ -59,40 +59,40 @@
 
 - **语言与编程**
     - 仓库地址: [https://github.com/worst001/note_language](https://github.com/worst001/note_language)
-    - 文档地址: [http://mkdocs.grft.top/语言与编程/](http://mkdocs.grft.top/语言与编程/)
+    - 文档地址: [http://note.grft.top/语言与编程/](http://note.grft.top/语言与编程/)
 - **代码管理**
     - 仓库地址: [https://github.com/worst001/note_code_manage](https://github.com/worst001/note_code_manage)
-    - 文档地址: [http://mkdocs.grft.top/代码管理/](http://mkdocs.grft.top/代码管理/)
+    - 文档地址: [http://note.grft.top/代码管理/](http://note.grft.top/代码管理/)
 - **前端技术**
     - 仓库地址: [https://github.com/worst001/note_front_end](https://github.com/worst001/note_front_end)
-    - 文档地址: [http://mkdocs.grft.top/前端技术/](http://mkdocs.grft.top/前端技术/)
+    - 文档地址: [http://note.grft.top/前端技术/](http://note.grft.top/前端技术/)
 - **数据库**
     - 仓库地址: [https://github.com/worst001/note_db](https://github.com/worst001/note_db)
-    - 文档地址: [http://mkdocs.grft.top/数据库/](http://mkdocs.grft.top/数据库/)
+    - 文档地址: [http://note.grft.top/数据库/](http://note.grft.top/数据库/)
 - **中间件**
     - 仓库地址: [https://github.com/worst001/note_middleware](https://github.com/worst001/note_middleware)
-    - 文档地址: [http://mkdocs.grft.top/中间件/](http://mkdocs.grft.top/中间件/)
+    - 文档地址: [http://note.grft.top/中间件/](http://note.grft.top/中间件/)
 - **大数据**
     - 仓库地址: [https://github.com/worst001/note_bigdata](https://github.com/worst001/note_bigdata)
-    - 文档地址: [http://mkdocs.grft.top/大数据/](http://mkdocs.grft.top/大数据/)
+    - 文档地址: [http://note.grft.top/大数据/](http://note.grft.top/大数据/)
 - **机器学习**
     - 仓库地址: [https://github.com/worst001/note_machine_learning](https://github.com/worst001/note_machine_learning)
-    - 文档地址: [http://mkdocs.grft.top/机器学习/](http://mkdocs.grft.top/机器学习/)
+    - 文档地址: [http://note.grft.top/机器学习/](http://note.grft.top/机器学习/)
 - **操作系统**
     - 仓库地址: [https://github.com/worst001/note_os](https://github.com/worst001/note_os)
-    - 文档地址: [http://mkdocs.grft.top/操作系统/](http://mkdocs.grft.top/操作系统/)
+    - 文档地址: [http://note.grft.top/操作系统/](http://note.grft.top/操作系统/)
 - **计算机网络**
     - 仓库地址: [https://github.com/worst001/note_network](https://github.com/worst001/note_network)
-    - 文档地址: [http://mkdocs.grft.top/计算机网络/](http://mkdocs.grft.top/计算机网络/)
+    - 文档地址: [http://note.grft.top/计算机网络/](http://note.grft.top/计算机网络/)
 - **容器与架构**
     - 仓库地址: [https://github.com/worst001/note_container_architecture](https://github.com/worst001/note_container_architecture)
-    - 文档地址: [http://mkdocs.grft.top/容器与架构/](http://mkdocs.grft.top/容器与架构/)
+    - 文档地址: [http://note.grft.top/容器与架构/](http://note.grft.top/容器与架构/)
 - **编辑与模式**
     - 仓库地址: [https://github.com/worst001/note_program_design](https://github.com/worst001/note_program_design)
-    - 文档地址: [http://mkdocs.grft.top/编辑与模式/](http://mkdocs.grft.top/编辑与模式/)
+    - 文档地址: [http://note.grft.top/编辑与模式/](http://note.grft.top/编辑与模式/)
 - **算法设计**
     - 仓库地址: [https://github.com/worst001/note_algorithm](https://github.com/worst001/note_algorithm)
-    - 文档地址: [http://mkdocs.grft.top/算法设计/](http://mkdocs.grft.top/算法设计/)
+    - 文档地址: [http://note.grft.top/算法设计/](http://note.grft.top/算法设计/)
 
 <p align="right">(<a href="#readme-top">回到顶部</a>)</p>
 
@@ -121,7 +121,7 @@
 
 关注我: [小昊子](https://github.com/worst001)
 
-博客地址: [http://mkdocs.grft.top](http://mkdocs.grft.top)
+博客地址: [http://note.grft.top](http://note.grft.top)
 
 项目链接: [https://github.com/worst001/note_home](https://github.com/worst001/note_home)
 
