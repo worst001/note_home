@@ -58,40 +58,40 @@
 ## 技术索引一览
 
 - **语言与编程**
-    - 仓库地址: [https://github.com/worst001/mkdocs_language](https://github.com/worst001/mkdocs_language)
+    - 仓库地址: [https://github.com/worst001/note_language](https://github.com/worst001/note_language)
     - 文档地址: [http://mkdocs.grft.top/语言与编程/](http://mkdocs.grft.top/语言与编程/)
 - **代码管理**
-    - 仓库地址: [https://github.com/worst001/mkdocs_code_manage](https://github.com/worst001/mkdocs_code_manage)
+    - 仓库地址: [https://github.com/worst001/note_code_manage](https://github.com/worst001/note_code_manage)
     - 文档地址: [http://mkdocs.grft.top/代码管理/](http://mkdocs.grft.top/代码管理/)
 - **前端技术**
-    - 仓库地址: [https://github.com/worst001/mkdocs_front_end](https://github.com/worst001/mkdocs_front_end)
+    - 仓库地址: [https://github.com/worst001/note_front_end](https://github.com/worst001/note_front_end)
     - 文档地址: [http://mkdocs.grft.top/前端技术/](http://mkdocs.grft.top/前端技术/)
 - **数据库**
-    - 仓库地址: [https://github.com/worst001/mkdocs_db](https://github.com/worst001/mkdocs_db)
+    - 仓库地址: [https://github.com/worst001/note_db](https://github.com/worst001/note_db)
     - 文档地址: [http://mkdocs.grft.top/数据库/](http://mkdocs.grft.top/数据库/)
 - **中间件**
-    - 仓库地址: [https://github.com/worst001/mkdocs_middleware](https://github.com/worst001/mkdocs_middleware)
+    - 仓库地址: [https://github.com/worst001/note_middleware](https://github.com/worst001/note_middleware)
     - 文档地址: [http://mkdocs.grft.top/中间件/](http://mkdocs.grft.top/中间件/)
 - **大数据**
-    - 仓库地址: [https://github.com/worst001/mkdocs_bigdata](https://github.com/worst001/mkdocs_bigdata)
+    - 仓库地址: [https://github.com/worst001/note_bigdata](https://github.com/worst001/note_bigdata)
     - 文档地址: [http://mkdocs.grft.top/大数据/](http://mkdocs.grft.top/大数据/)
 - **机器学习**
-    - 仓库地址: [https://github.com/worst001/mkdocs_machine_learning](https://github.com/worst001/mkdocs_machine_learning)
+    - 仓库地址: [https://github.com/worst001/note_machine_learning](https://github.com/worst001/note_machine_learning)
     - 文档地址: [http://mkdocs.grft.top/机器学习/](http://mkdocs.grft.top/机器学习/)
 - **操作系统**
-    - 仓库地址: [https://github.com/worst001/mkdocs_os](https://github.com/worst001/mkdocs_os)
+    - 仓库地址: [https://github.com/worst001/note_os](https://github.com/worst001/note_os)
     - 文档地址: [http://mkdocs.grft.top/操作系统/](http://mkdocs.grft.top/操作系统/)
 - **计算机网络**
-    - 仓库地址: [https://github.com/worst001/mkdocs_network](https://github.com/worst001/mkdocs_network)
+    - 仓库地址: [https://github.com/worst001/note_network](https://github.com/worst001/note_network)
     - 文档地址: [http://mkdocs.grft.top/计算机网络/](http://mkdocs.grft.top/计算机网络/)
 - **容器与架构**
-    - 仓库地址: [https://github.com/worst001/mkdocs_container_architecture](https://github.com/worst001/mkdocs_container_architecture)
+    - 仓库地址: [https://github.com/worst001/note_container_architecture](https://github.com/worst001/note_container_architecture)
     - 文档地址: [http://mkdocs.grft.top/容器与架构/](http://mkdocs.grft.top/容器与架构/)
 - **编辑与模式**
-    - 仓库地址: [https://github.com/worst001/mkdocs_program_design](https://github.com/worst001/mkdocs_program_design)
+    - 仓库地址: [https://github.com/worst001/note_program_design](https://github.com/worst001/note_program_design)
     - 文档地址: [http://mkdocs.grft.top/编辑与模式/](http://mkdocs.grft.top/编辑与模式/)
 - **算法设计**
-    - 仓库地址: [https://github.com/worst001/mkdocs_algorithm](https://github.com/worst001/mkdocs_algorithm)
+    - 仓库地址: [https://github.com/worst001/note_algorithm](https://github.com/worst001/note_algorithm)
     - 文档地址: [http://mkdocs.grft.top/算法设计/](http://mkdocs.grft.top/算法设计/)
 
 <p align="right">(<a href="#readme-top">回到顶部</a>)</p>
